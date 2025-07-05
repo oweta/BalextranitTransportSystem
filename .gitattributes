@@ -1,2 +1,14 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Java class files
+*.class
+
+# IntelliJ / Eclipse project files
+*.iml
+.idea/
+*.log
+target/
+out/
+bin/
+
+# OS junk
+.DS_Store
+Thumbs.db
